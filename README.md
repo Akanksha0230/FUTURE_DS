@@ -1,1 +1,1 @@
-# Tasks for Data Science & Analytics
+# Data Science & Analytics Internship 
