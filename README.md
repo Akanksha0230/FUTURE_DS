@@ -1,1 +1,1 @@
-# Data Science & Analytics Internship 
+# Data Science & Analytics Internship project
