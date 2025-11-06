@@ -35,3 +35,7 @@ Key Insights:
 * Microsoft Excel / CSV Files – Data preprocessing and cleaning
 
 * Data Analytics Techniques – Descriptive analysis, KPI measurement, and trend evaluation
+
+## Outcomes
+
+These dashboards provide meaningful insights through visual storytelling, enhancing business decision-making and academic feedback processes.
